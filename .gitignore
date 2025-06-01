@@ -1,0 +1,11 @@
+__pycache__/
+.venv/
+env/
+venv/
+.idea/
+.vscode/
+data/id_memory/
+data/id_state/
+data/scraped_data/test_website_data.txt
+data/Spreadsheets/Wesco Inventory All 250324.xls
+data/scripts/
